@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Service.deps.json
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Service.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Service.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Data.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Domain.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Data.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\bin\Debug\net6.0\ProductsProject.Domain.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.AssemblyInfo.cs
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.csproj.CopyComplete
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\refint\ProductsProject.Service.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ProductsProject.Service.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductProject.Service\obj\Debug\net6.0\ref\ProductsProject.Service.dll

@@ -1,0 +1,12 @@
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\bin\Debug\net6.0\ProductsProject.Domain.deps.json
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\bin\Debug\net6.0\ProductsProject.Domain.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\bin\Debug\net6.0\ProductsProject.Domain.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.AssemblyInfo.cs
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\refint\ProductsProject.Domain.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ProductsProject.Domain.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Domain\obj\Debug\net6.0\ref\ProductsProject.Domain.dll

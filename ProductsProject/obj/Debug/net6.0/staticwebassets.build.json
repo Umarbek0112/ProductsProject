@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "svS6HwhbMlsITaiE4QtV3L49/o4ZjInv4v0AlLtOz1w=",
+  "Source": "ProductsProject",
+  "BasePath": "_content/ProductsProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductsProject\\wwwroot",
+      "Source": "ProductsProject",
+      "ContentRoot": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\",
+      "BasePath": "_content/ProductsProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\0870a6f95fb941aa937b83b63bf2b675.jpg",
+      "SourceId": "ProductsProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\",
+      "BasePath": "_content/ProductsProject",
+      "RelativePath": "ProductImages/0870a6f95fb941aa937b83b63bf2b675.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\0870a6f95fb941aa937b83b63bf2b675.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\70b6d38299154fd1a077334b7a22c39b.jpg",
+      "SourceId": "ProductsProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\",
+      "BasePath": "_content/ProductsProject",
+      "RelativePath": "ProductImages/70b6d38299154fd1a077334b7a22c39b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\70b6d38299154fd1a077334b7a22c39b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\9e7d9411a4c34ffa8af3e6c8873bd453.jpg",
+      "SourceId": "ProductsProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\",
+      "BasePath": "_content/ProductsProject",
+      "RelativePath": "ProductImages/9e7d9411a4c34ffa8af3e6c8873bd453.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\9e7d9411a4c34ffa8af3e6c8873bd453.jpg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\0870a6f95fb941aa937b83b63bf2b675.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\0870a6f95fb941aa937b83b63bf2b675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\70b6d38299154fd1a077334b7a22c39b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\70b6d38299154fd1a077334b7a22c39b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i7TechStore\\Desktop\\ProductsProject\\ProductsProject\\wwwroot\\ProductImages\\9e7d9411a4c34ffa8af3e6c8873bd453.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9e7d9411a4c34ffa8af3e6c8873bd453.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProductsProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProductsProject.props",
+      "PackagePath": "build\\ProductsProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductsProject.props",
+      "PackagePath": "buildMultiTargeting\\ProductsProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProductsProject.props",
+      "PackagePath": "buildTransitive\\ProductsProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

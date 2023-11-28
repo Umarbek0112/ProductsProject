@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Data.deps.json
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Data.runtimeconfig.json
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Data.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Data.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Domain.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\bin\Debug\net6.0\ProductsProject.Domain.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.AssemblyInfo.cs
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.csproj.CopyComplete
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\refint\ProductsProject.Data.dll
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.pdb
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ProductsProject.Data.genruntimeconfig.cache
+C:\Users\i7TechStore\Desktop\ProductsProject\ProductsProject.Data\obj\Debug\net6.0\ref\ProductsProject.Data.dll
